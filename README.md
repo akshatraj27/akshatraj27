@@ -1,16 +1,43 @@
-### Hi there 👋
 
-<!--
-**akshatraj27/akshatraj27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi People. Welcome To Akshat's Github. 👋
 
-Here are some ideas to get you started:
+Anonymous boy stucked in the world of Developing the SItes🙋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Learn about Akshat
+
+
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://akshatrajportfolio.netlify.app)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/akshat-raj-bharti-23385420b//)
+
+
+
+## Certificates
+
+• Tailwind CSS From Scratch by Udemy.
+
+• Responsive Web Designing by Freecodecamp.
+
+• Frontend Development- HTML by Great Learning
+
+• Frontend Development- CSS by Great Learning
+
+
+
+
+
+## What I can Do?
+🌱 I’m Frontend Web Developer.
+
+🌱 Learning React JS to enhance my skillset.
+
+💪 My strength in rapid responsive Designing.
+
+🎨 I can design amazing layout using Wordpress, BootStrap, Tailwind CSS.
+
+👯 My skills are in designing, development of sites.
+
+📝 Actively listen to customers' requests, confirming full understanding before addressing concerns.
+
+🧑💻 Plan website development, converting mockups into usable web presence with HTML, CSS and JS.
